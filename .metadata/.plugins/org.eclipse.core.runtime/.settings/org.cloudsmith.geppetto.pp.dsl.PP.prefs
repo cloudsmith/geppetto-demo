@@ -1,0 +1,5 @@
+autoEditStrategy=-64
+eclipse.preferences.version=1
+ensureNotFirst=Warning
+formatAlignAssigments=true
+formatterPreferredWidth=80

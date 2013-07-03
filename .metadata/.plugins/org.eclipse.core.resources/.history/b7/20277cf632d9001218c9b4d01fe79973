@@ -1,0 +1,8 @@
+class foo {
+  file { 'title':
+    mode=>0777,
+    owner => 'root',checksum => 'asdf'
+  }
+}
+
+debug 'hello'

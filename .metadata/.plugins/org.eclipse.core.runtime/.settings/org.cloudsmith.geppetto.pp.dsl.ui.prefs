@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.cloudsmith.geppetto.pp.dsl.PP.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="org.cloudsmith.geppetto.pp.dsl.PP.ResourceExpression" deleted\="false" description\="a resource" enabled\="true" name\="resource">${resource} { '${title} \n  ${cursor}\n}</template></templates>

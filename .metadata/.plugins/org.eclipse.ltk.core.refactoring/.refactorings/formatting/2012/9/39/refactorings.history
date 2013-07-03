@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;formatting/manifests/format1.pp&apos; to &apos;comment1.pp&apos;" description="Rename resource &apos;format1.pp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="manifests/format1.pp" name="comment1.pp" stamp="1348758792821" updateReferences="true"/>
+</session>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="33" version="2.0">
+<workbenchAdvisor/>
+<window height="959" maximized="true" width="805" x="926" y="38">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="144" y="30"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launch.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="40" y="22"/>
+<coolItem id="org.eclipse.debug.ui.main.toolbar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="60" y="30"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="68" y="30"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="232" y="30"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="winterwell.markdown.editors.MarkdownEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.cloudsmith.geppetto.pp.dsl.PP" itemType="typeToolBarContribution" x="40" y="30"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1348778547999" focus="true" label="Workspace - Resource">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.cloudsmith.geppetto.pp.dsl.PP" name="server.pp" partName="server.pp" path="/home/thhal/git/puppet-modules/newrelic/manifests/server.pp" title="server.pp" tooltip="newrelic/manifests/server.pp" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/newrelic/manifests/server.pp"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="768" selectionTopPixel="367"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.team.ui.GenericHistoryView" partName="History">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="1" currentWorkingSetName="Aggregate for window 1348778547999" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ResourceNavigator" partName="Navigator">
+<viewState LINK_NAVIGATOR_TO_EDITOR="0" sorter="1">
+<filters>&#x0A;<filter element=".*" isEnabled="false"/>
+</filters>
+<selection>&#x0A;<element path="/.org_cloudsmith_geppetto_pptp_target"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Errors (2 items)"/>
+<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="537" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="519"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.pde.runtime.LogView" partName="Error Log">
+<viewState activate="true" allSessions="true" column2="780" column3="125" column4="578" error="true" groupBy="0" info="true" limit="50" ok="true" orderType="2" orderValue="-1" show_filter_text="true" useLimit="true" warning="true"/>
+</view>
+<view id="org.eclipse.egit.ui.RepositoriesView" partName="Git Repositories">
+<viewState CommonNavigator.LINKING_ENABLED="0"/>
+</view>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.completionField" categoryGroup="none" markerContentGenerator="org.eclipse.ui.ide.tasksGenerator" partName="Tasks">
+<columnWidths org.eclipse.ui.ide.completionField="40" org.eclipse.ui.ide.descriptionField="300" org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="686" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.priorityField="30" org.eclipse.ui.ide.resourceField="90"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.completionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.priorityField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.descriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="org.eclipse.ui.resourcePerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.ui.internal.ide.application.ResourcePerspective" id="org.eclipse.ui.resourcePerspective" label="Resource"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.BookmarkView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.PropertySheet"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_in_time id="org.eclipse.team.ui.GenericHistoryView" time="1371771506164"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<perspective_action id="org.eclipse.team.cvs.ui.cvsPerspective"/>
+<perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.RunToLine"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="org.eclipse.ui.views.ResourceNavigator"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.pde.runtime.LogView"/>
+<view id="org.eclipse.egit.ui.RepositoriesView"/>
+<view id="org.eclipse.team.ui.GenericHistoryView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="topLeft">
+<folder activePageID="org.eclipse.ui.navigator.ProjectExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="Navigator"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.team.ccvs.ui.RepositoriesView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="topLeft">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.18438439" ratioLeft="307" ratioRight="1358" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.43446088" ratioLeft="411" ratioRight="535" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.pde.runtime.LogView" label="Error Log"/>
+<page content="org.eclipse.egit.ui.RepositoriesView" label="Git Repositories"/>
+<page content="org.eclipse.team.ui.GenericHistoryView" label="History"/>
+<page content="winterwell.markdown.views.MarkdownPreview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@6c911796" ratio="0.69962686" ratioLeft="375" ratioRight="161" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/demoapp/metadata.json"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/demoapp/Modulefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="" path="/demoplatform/metadata.json"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/demoplatform/Modulefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/demoplatform/Modulefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/demoapp/manifests/default.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/demoapp/manifests/default.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/demo/manifests/completeme.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/demo/manifests/fixmeup.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/demo/manifests/references.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/newrelic/Modulefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" path="/newrelic/manifests/server.pp"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/demoapp/Modulefile"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" path="/demoplatform/Modulefile"/>
+</editors>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="3"/>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="1"/>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="4"/>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="1"/>
+<item historyLabel="default.pp" index="5">
+<position/>
+</item>
+<item historyLabel="default.pp" index="5">
+<position info="not_deleted" x="345" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="default.pp" index="5">
+<position info="not_deleted" x="308" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="1"/>
+<item historyLabel="default.pp" index="6">
+<position/>
+</item>
+<item historyLabel="completeme.pp" index="7">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="fixmeup.pp" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="fixmeup.pp" index="8">
+<position info="not_deleted" x="43" y="5"/>
+</item>
+<item historyLabel="fixmeup.pp" index="8">
+<position info="not_deleted" x="66" y="4"/>
+</item>
+<item historyLabel="fixmeup.pp" index="8">
+<position info="not_deleted" x="121" y="7"/>
+</item>
+<item historyLabel="references.pp" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-newrelic" index="10"/>
+<item historyLabel="references.pp" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="server.pp" index="11">
+<position info="not_deleted" x="592" y="172"/>
+</item>
+<item historyLabel="references.pp" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="fixmeup.pp" index="8">
+<position info="not_deleted" x="121" y="7"/>
+</item>
+<item historyLabel="completeme.pp" index="7">
+<position info="not_deleted" x="74" y="0"/>
+</item>
+<item historyLabel="server.pp" index="11">
+<position info="not_deleted" x="768" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="12"/>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="13"/>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoplatform" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="default.pp" index="6">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="default.pp" index="6">
+<position info="not_deleted" x="354" y="0"/>
+</item>
+<item historyLabel="cloudsmith-demoapp" index="0">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="server.pp" index="11">
+<position info="not_deleted" x="768" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="default.pp" tooltip="demoapp/manifests/default.pp">
+<persistable path="/demoapp/manifests/default.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" name="Modulefile" tooltip="demoplatform/Modulefile">
+<persistable path="/demoplatform/Modulefile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" name="Modulefile" tooltip="demoapp/Modulefile">
+<persistable path="/demoapp/Modulefile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="server.pp" tooltip="newrelic/manifests/server.pp">
+<persistable path="/newrelic/manifests/server.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.ui.moduleMetadataEditor" name="Modulefile" tooltip="newrelic/Modulefile">
+<persistable path="/newrelic/Modulefile"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="references.pp" tooltip="demo/manifests/references.pp">
+<persistable path="/demo/manifests/references.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="fixmeup.pp" tooltip="demo/manifests/fixmeup.pp">
+<persistable path="/demo/manifests/fixmeup.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="completeme.pp" tooltip="demo/manifests/completeme.pp">
+<persistable path="/demo/manifests/completeme.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="winterwell.markdown.editors.MarkdownEditor" name="RELEASE_PROCESS.markdown" tooltip="stdlib/RELEASE_PROCESS.markdown">
+<persistable path="/stdlib/RELEASE_PROCESS.markdown"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="alignCases.pp" tooltip="formatting/manifests/alignCases.pp">
+<persistable path="/formatting/manifests/alignCases.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="hangingcomment.pp" tooltip="formatting/manifests/hangingcomment.pp">
+<persistable path="/formatting/manifests/hangingcomment.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="comment3.pp" tooltip="formatting/manifests/comment3.pp">
+<persistable path="/formatting/manifests/comment3.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="comment2.pp" tooltip="formatting/manifests/comment2.pp">
+<persistable path="/formatting/manifests/comment2.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.cloudsmith.geppetto.pp.dsl.PP" name="comment1.pp" tooltip="formatting/manifests/comment1.pp">
+<persistable path="/formatting/manifests/comment1.pp"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="winterwell.markdown.editors.MarkdownEditor" name="README.markdown" tooltip="stdlib/README.markdown">
+<persistable path="/stdlib/README.markdown"/>
+</file>
+</mruList>
+</workbench>
