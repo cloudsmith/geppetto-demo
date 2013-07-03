@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="installedFeatures">
+		<item value="org.cloudsmith.geppetto.product:3.2.0.v20130703-0955"/>
+		<item value="org.cloudsmith.geppetto:3.2.0.v20130703-0955"/>
+		<item value="org.eclipse.egit:3.0.0.201306101825-r"/>
+		<item value="org.eclipse.emf.common.ui:2.8.0.v20130610-0406"/>
+		<item value="org.eclipse.emf.common:2.9.0.v20130528-0742"/>
+		<item value="org.eclipse.emf.ecore.edit:2.8.0.v20130610-0406"/>
+		<item value="org.eclipse.emf.ecore:2.9.0.v20130528-0742"/>
+		<item value="org.eclipse.emf.edit.ui:2.9.0.v20130610-0406"/>
+		<item value="org.eclipse.emf.edit:2.9.0.v20130610-0406"/>
+		<item value="org.eclipse.jgit:3.0.0.201306101825-r"/>
+		<item value="org.eclipse.rcp:4.3.0.v20130605-2000"/>
+		<item value="org.eclipse.team.svn:1.1.0.I20130527-1700"/>
+		<item value="org.polarion.eclipse.team.svn.connector.svnkit17:3.0.1.I20130507-1700"/>
+		<item value="org.polarion.eclipse.team.svn.connector:3.0.1.I20130507-1700"/>
 	</list>
 	<section name="BasicNewProjectResourceWizard">
 	</section>
@@ -8,17 +22,17 @@
 		<item value="Aggregate for window 1348778547999" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
 	</section>
+	<section name="CleanDialogSettings">
+		<item value="565" key="DIALOG_WIDTH"/>
+		<item value="136" key="DIALOG_Y_ORIGIN"/>
+		<item value="368" key="DIALOG_HEIGHT"/>
+		<item value="270" key="DIALOG_X_ORIGIN"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+	</section>
 	<section name="NewWizardAction">
 		<item value="org.cloudsmith.geppetto.ui.NewPuppetProjectFromForgeWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.ui.Basic"/>
 		</list>
-	</section>
-	<section name="CleanDialogSettings">
-		<item value="565" key="DIALOG_WIDTH"/>
-		<item value="136" key="DIALOG_Y_ORIGIN"/>
-		<item value="270" key="DIALOG_X_ORIGIN"/>
-		<item value="368" key="DIALOG_HEIGHT"/>
-		<item value="false" key="TOGGLE_SELECTED"/>
 	</section>
 </section>
